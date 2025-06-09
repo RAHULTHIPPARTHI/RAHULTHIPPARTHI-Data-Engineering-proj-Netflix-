@@ -83,9 +83,5 @@ RAW (GitHub) → ADF (Ingestion) → ADLS (Bronze → Silver → Gold) → Datab
 
 ---
 
-## 👨‍💻 Author
-**Rahul Thipparthi**  
-DevOps & Data Engineer | [LinkedIn](https://www.linkedin.com/in/rahulthipparthi/) | GitHub: [RAHULTHIPPARTHI](https://github.com/RAHULTHIPPARTHI)
 
----
 # RAHULTHIPPARTHI-Data-Engineering-proj-Netflix-
